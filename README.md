@@ -7,13 +7,6 @@ This repository contains code for a machine learning model that predicts the lik
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Google Colab](#google-colab)
-7. [Files](#files)
-8. [Future Improvements](#future-improvements)
-9. [Contributors](#contributors)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -21,7 +14,7 @@ This project aims to predict diabetes in individuals based on certain diagnostic
 
 ## Dataset
 
-The dataset used in this project is sourced from [source_name]. It includes the following features:
+The dataset used in this project is sourced from [Kaggle]. It includes the following features:
 
 - **Pregnancies**: Number of times pregnant.
 - **Glucose**: Plasma glucose concentration.
